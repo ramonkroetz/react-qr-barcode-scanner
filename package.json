@@ -1,6 +1,6 @@
 {
-  "name": "react-qr-barcode-scanner",
-  "version": "1.0.6",
+  "name": "@ramonkroetz/react-qr-barcode-scanner",
+  "version": "1.0.0",
   "description": "A simple React Component using the client's webcam to read barcodes and QR codes.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,8 +32,8 @@
   },
   "homepage": "https://github.com/jamenamcinteer/react-qr-barcode-scanner#readme",
   "peerDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
   },
   "dependencies": {
     "@types/react": "^16.9.35",
